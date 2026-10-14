@@ -1,3 +1,6 @@
+[![Java CI with Maven](https://github.com/TranRobi/se-lab/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/TranRobi/se-lab/actions/workflows/maven.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # SE Spaceship
 
 This is a sample application for the [Software Engineering](http://www.mit.bme.hu/oktatas/targyak/vimiab04) course at BME MIT.
@@ -28,7 +31,6 @@ As this is a really simple project, you can use the command-line build tools or 
 
 ## Overview
 
-[![Java CI with Maven](https://github.com/TranRobi/se-lab/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/TranRobi/se-lab/actions/workflows/maven.yml)
 The project represents an alpha version of a spaceship.
 
 - The ship (`SpaceShip` interface) can fire one or more lasers or torpedos.
