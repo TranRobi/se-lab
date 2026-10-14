@@ -28,6 +28,7 @@ As this is a really simple project, you can use the command-line build tools or 
 
 ## Overview
 
+[![Java CI with Maven](https://github.com/TranRobi/se-lab/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/TranRobi/se-lab/actions/workflows/maven.yml)
 The project represents an alpha version of a spaceship.
 
 - The ship (`SpaceShip` interface) can fire one or more lasers or torpedos.
