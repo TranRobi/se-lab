@@ -13,6 +13,7 @@ public class TorpedoStore {
   private double FAILURE_RATE = 0.0; //NOSONAR
   
   private int torpedoCount = 0;
+  //This variable is responsible for the Random number for the spaceship
   private Random generator = new Random();
   
   public TorpedoStore(int numberOfTorpedos){
